@@ -1,6 +1,6 @@
 
 
-const FeaturedPark = (props) => {\
+const FeaturedPark = (props) => {
 
     return (
         <div>
