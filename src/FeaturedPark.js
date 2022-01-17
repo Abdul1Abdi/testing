@@ -1,7 +1,6 @@
 
 
-const FeaturedPark = (props) => {\
-
+const FeaturedPark = (props) => {
     return (
         <div>
             <h2>This week's featured park is {props.parkName}</h2>
