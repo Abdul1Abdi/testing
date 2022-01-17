@@ -1,11 +1,6 @@
 
 
-const FeaturedPark = (props) => {
-    
-    const deferrer = () => {
-        props.bulldozer(props.parkName)
-    }
-    
+const FeaturedPark = (props) => {\
 
     return (
         <div>
